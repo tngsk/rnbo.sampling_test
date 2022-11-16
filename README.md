@@ -9,9 +9,6 @@ Try changing your browser's audio input settings.
 
 # Code Changes
 
-Cycling 74
-
-
 We used the web page export template provided by Cycling74, but added code to create a media stream to use the browser's external input and to connect to the RNBO device.
 
 https://github.com/Cycling74/rnbo.example.webpage
